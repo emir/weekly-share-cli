@@ -6,12 +6,10 @@ CLI tool for sharing URL to weekly.
 Installation
 ------------
 
-```
-go get -u github.com/emir/weekly-share-cli
-```
+You can download binary from [releases](https://github.com/emir/weekly-share-cli/releases) OR you can use ```go get``` compile from source:
 
 ```
-go install
+go get github.com/emir/weekly-share-cli
 ```
 
 Usage
